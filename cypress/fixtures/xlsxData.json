@@ -1,0 +1,67 @@
+{
+  "rows": [
+    {
+      "ComputerName": "Mollo Computer 1",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 2",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 3",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 4",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 5",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 6",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 7",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 8",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    },
+    {
+      "ComputerName": "Mollo Computer 9",
+      "IntroducedDate": "2022-02-21",
+      "DiscontinuedDate": "2023-02-21",
+      "Company": "Sony",
+      "Option": "Create"
+    }
+  ]
+}
